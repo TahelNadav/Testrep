@@ -1,0 +1,11 @@
+C:\Users\tahel\Desktop\Medicine\BL\bin\Debug\BL.dll
+C:\Users\tahel\Desktop\Medicine\BL\bin\Debug\BL.pdb
+C:\Users\tahel\Desktop\Medicine\BL\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\Medicine\BL\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\Medicine\BL\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\Medicine\BL\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\Medicine\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\Medicine\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\Medicine\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\tahel\Desktop\Medicine\BL\obj\Debug\BL.dll
+C:\Users\tahel\Desktop\Medicine\BL\obj\Debug\BL.pdb

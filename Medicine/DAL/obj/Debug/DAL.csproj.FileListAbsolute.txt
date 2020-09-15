@@ -1,0 +1,9 @@
+C:\Users\tahel\Desktop\Medicine\DAL\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\Medicine\DAL\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\Medicine\DAL\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\Medicine\DAL\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\Medicine\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\Medicine\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\Medicine\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tahel\Desktop\Medicine\DAL\obj\Debug\DAL.dll
+C:\Users\tahel\Desktop\Medicine\DAL\obj\Debug\DAL.pdb
