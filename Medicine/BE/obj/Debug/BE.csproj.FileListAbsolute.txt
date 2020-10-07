@@ -4,3 +4,9 @@ C:\Users\tahel\Desktop\Medicine\BE\obj\Debug\BE.csprojAssemblyReference.cache
 C:\Users\tahel\Desktop\Medicine\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\tahel\Desktop\Medicine\BE\obj\Debug\BE.dll
 C:\Users\tahel\Desktop\Medicine\BE\obj\Debug\BE.pdb
+C:\Users\tahel\mine\Medicine\BE\bin\Debug\BE.dll
+C:\Users\tahel\mine\Medicine\BE\bin\Debug\BE.pdb
+C:\Users\tahel\mine\Medicine\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\tahel\mine\Medicine\BE\obj\Debug\BE.dll
+C:\Users\tahel\mine\Medicine\BE\obj\Debug\BE.pdb
+C:\Users\tahel\mine\Medicine\BE\obj\Debug\BE.csprojAssemblyReference.cache

@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL
+namespace DAL.ConvertRxHelper
 {
-    public class Class1
+    public class Root
     {
+        public Rxnormdata rxnormdata { get; set; }
+       
     }
 }

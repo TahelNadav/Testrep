@@ -6,9 +6,16 @@ using System.Threading.Tasks;
 
 namespace BE
 {
-    class Drug
+   public class Drug
     {
+
         public int Id { get; set; }
-        public List< Ingredient> Ingredient { get; set; }
+
+        public string Name { get; set; }
+
+        public string ImagePath { get; set; }
+        
+        public List<Ingredient> Ingredient { get; set; }
+
     }
 }

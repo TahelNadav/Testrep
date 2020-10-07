@@ -9,7 +9,7 @@ namespace BE
 {
     public class Patient:Person
     {
-      //  public List<Drug> Drugs { get; set; }
+      public List<Prescription> prescriptions { get; set; }
       
     }
 }

@@ -41,11 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Director.cs" />
     <Compile Include="Doctor.cs" />
     <Compile Include="Drug.cs" />
+    <Compile Include="GoogleDriveFile.cs" />
+    <Compile Include="ImageDetails.cs" />
     <Compile Include="Ingredient.cs" />
     <Compile Include="Patient.cs" />
     <Compile Include="Person.cs" />
+    <Compile Include="Prescription.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
